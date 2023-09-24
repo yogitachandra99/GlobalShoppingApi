@@ -1,0 +1,140 @@
+{
+    "status": true,
+    "products": [
+        {
+            "id": 1,
+            "title": "TP-Link TL N 300 mbps Wireless Router ",
+            "img": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "mrp": 1200,
+            "price": 1000,
+            "description": "A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions between networks and on the global Internet. Data sent through a network, such as a web page or email, is in the form of data packets.",
+            "discount": "10%"
+        },
+        {
+            "id": 2,
+            "title": "Samsung 55-Inch 4K Smart LED TV",
+            "img": "https://images.pexels.com/photos/5490302/pexels-photo-5490302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "mrp": 2000,
+            "price": 1500,
+            "description": "Enjoy stunning 4K picture quality and smart features with this Samsung 55-inch 4K Smart LED TV. It's perfect for movie nights and gaming.",
+            "discount": "25%"
+        },
+        {
+            "id": 3,
+            "title": "Sony Noise Cancelling Headphones",
+            "img": "https://images.pexels.com/photos/375751/pexels-photo-375751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "mrp": 300,
+            "price": 250,
+            "description": "Immerse yourself in music with Sony's noise-canceling headphones. Enjoy crystal-clear audio quality and block out unwanted background noise.",
+            "discount": "17%"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 13 Pro Max",
+            "img": "https://images.pexels.com/photos/5053841/pexels-photo-5053841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "mrp": 1399,
+            "price": 1299,
+            "description": "The iPhone 13 Pro Max is the ultimate smartphone with its stunning camera, powerful performance, and impressive battery life. It's a must-have for tech enthusiasts.",
+            "discount": "7%"
+        },
+        {
+            "id": 5,
+            "title": "Canon EOS Rebel T7 DSLR Camera",
+            "img": "https://images.pexels.com/photos/1787235/pexels-photo-1787235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "mrp": 599,
+            "price": 499,
+            "description": "Capture stunning photos and videos with the Canon EOS Rebel T7 DSLR camera. It's perfect for beginners and offers a range of creative shooting modes.",
+            "discount": "17%"
+        },
+        {
+            "id": 6,
+            "title": "Logitech MX Master 3 Wireless Mouse",
+            "img": "https://images.pexels.com/photos/383496/pexels-photo-383496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "mrp": 99,
+            "price": 79,
+            "description": "Boost your productivity with the Logitech MX Master 3 wireless mouse. It offers advanced features, ergonomic design, and customizable buttons.",
+            "discount": "20%"
+        },
+        {
+            "id": 7,
+            "title": "Dell Inspiron 15 Laptop",
+            "img": "https://images.pexels.com/photos/5703527/pexels-photo-5703527.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "mrp": 799,
+            "price": 699,
+            "description": "Get work done on the go with the Dell Inspiron 15 laptop. It boasts a powerful processor, ample storage, and a high-resolution display.",
+            "discount": "13%"
+        },
+        {
+            "id": 8,
+            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+            "img": "https://images.pexels.com/photos/18354407/pexels-photo-18354407/free-photo-of-a-small-jbl-speaker.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "mrp": 299,
+            "price": 249,
+            "description": "Enjoy 360-degree sound with the Bose SoundLink Revolve+ Bluetooth speaker. It's portable, water-resistant, and perfect for outdoor gatherings.",
+            "discount": "17%"
+        },
+        {
+            "id": 9,
+            "title": "Amazon Echo Dot (3rd Gen)",
+            "img": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "mrp": 49,
+            "price": 29,
+            "description": "Make your home smart with the Amazon Echo Dot (3rd Gen). It's a voice-controlled smart speaker that can play music, control smart devices, and more.",
+            "discount": "41%"
+        },
+        {
+            "id": 10,
+            "title": "Fitbit Charge 5 Fitness and Activity Tracker",
+            "img": "https://images.pexels.com/photos/4498482/pexels-photo-4498482.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "mrp": 179,
+            "price": 149,
+            "description": "Track your fitness and health with the Fitbit Charge 5. It monitors your heart rate, sleep, and provides insights to help you reach your goals.",
+            "discount": "17%"
+        },
+        {
+            "id": 11,
+            "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+            "img": "https://images.pexels.com/photos/1587830/pexels-photo-1587830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "mrp": 99,
+            "price": 79,
+            "description": "Cook delicious meals in less time with the Instant Pot Duo 7-in-1 electric pressure cooker. It's a versatile kitchen appliance that simplifies cooking.",
+            "discount": "20%"
+        },
+        {
+            "id": 12,
+            "title": "GoPro HERO9 Black Action Camera",
+            "img": "https://images.pexels.com/photos/3945314/pexels-photo-3945314.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "mrp": 449,
+            "price": 399,
+            "description": "Capture incredible action shots with the GoPro HERO9 Black action camera. It features 5K video, 20MP photos, and is rugged and waterproof.",
+            "discount": "11%"
+        },
+        {
+            "id": 13,
+            "title": "Sony PlayStation 5 Gaming Console",
+            "img": "https://images.pexels.com/photos/7046989/pexels-photo-7046989.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "mrp": 499,
+            "price": 449,
+            "description": "Experience the next generation of gaming with the Sony PlayStation 5 gaming console. It offers stunning graphics, fast load times, and a wide range of games.",
+            "discount": "10%"
+        },
+        {
+            "id": 14,
+            "title": "Kindle Paperwhite E-Reader",
+            "img": "https://images.pexels.com/photos/3806168/pexels-photo-3806168.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "mrp": 129,
+            "price": 99,
+            "description": "Enjoy reading your favorite books with the Kindle Paperwhite E-Reader. It features a high-resolution display and is waterproof for worry-free reading.",
+            "discount": "23%"
+        },
+        {
+            "id": 15,
+            "title": "Anker PowerCore 26800 Portable Charger",
+            "img": "https://images.pexels.com/photos/5208819/pexels-photo-5208819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "mrp": 69,
+            "price": 49,
+            "description": "Stay powered up on the go with the Anker PowerCore 26800 portable charger. It has a high-capacity battery and can charge multiple devices simultaneously.",
+            "discount": "29%"
+        }
+    ]
+}
